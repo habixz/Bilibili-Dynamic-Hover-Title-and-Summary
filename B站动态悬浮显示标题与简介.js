@@ -5,7 +5,7 @@
 // @description  在 B 站动态页悬浮显示视频卡片标题与简介全文，并自动适配深浅色主题
 // @author       habixz
 // @match        https://t.bilibili.com/*
-// @match        https://space.bilibili.com/*/dynamic*
+// @match        https://space.bilibili.com/*
 // @match        https://www.bilibili.com/v/topic/detail/*
 // @grant        none
 // @run-at       document-start
